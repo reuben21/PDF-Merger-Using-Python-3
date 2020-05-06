@@ -3,7 +3,7 @@
 <h2 style="background-color:#ffcc00;">A PDF merger application which can merge multiple pdfs.</button>
 
  The PDF Merger Screen:
-  ![](Project-Images/Output%20ScreenShots/0001.JPG)
+  ![](ScreenShots/0001.JPG)
 
 
 <h2> Adding A PDF It is Displayed in the ListBox:<br>
