@@ -1,6 +1,7 @@
 # PDF-Merger-Using-Python-3
-<h2>A PDF merger application which can merge multiple pdfs.</h2>
-<br>
+
+<h2 style="background-color:#ffcc00;">A PDF merger application which can merge multiple pdfs.</button>
+
 <h2> The PDF Merger Screen:<br>
 <img src="https://github.com/reuben21/Project-Images/blob/master/Output%20ScreenShots/0001.JPG"/>
 </h2>
