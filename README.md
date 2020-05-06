@@ -12,6 +12,7 @@
 
 
 <h2>Editing Page Numbers to be Combined:<br></h2>
+
  ![](ScreenShots/EditPageNumber.gif)
 
 
