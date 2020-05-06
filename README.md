@@ -11,18 +11,21 @@
 ![](ScreenShots/Adding%20A%20PDF.gif)
 
 
-<h2>Editing Page Numbers to be Combined:<br>
+<h2>Editing Page Numbers to be Combined:<br></h2>
  ![](ScreenShots/EditPageNumber.gif)
-</h2>
 
-<h2>Removing A PDF From the Listbox:<br>
+
+<h2>Removing A PDF From the Listbox:<br></h2>
+
  ![](ScreenShots/removepdf.gif)
-</h2>
 
-<h2>Slide and Dropping in the Order You Need:<br>
+
+<h2>Slide and Dropping in the Order You Need:<br></h2>
+
  ![](ScreenShots/SlideAndDrop.gif)
-</h2>
 
-<h2>To Save A PDF:<br>
+
+<h2>To Save A PDF:<br></h2>
+
  ![](ScreenShots/SavePDF.gif)
-</h2>
+
